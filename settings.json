@@ -1,0 +1,15 @@
+{
+	"files.autoSave": "onFocusChange",
+	"editor.tabSize": 3,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"vscodeGoogleTranslate.preferredLanguage": "English",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"settingsSync.ignoredExtensions": [],
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "Atom Dark Low Eye"
+}

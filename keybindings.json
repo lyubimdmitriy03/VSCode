@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaults
+[
+	{
+		"key": "ctrl+alt+1",
+		"command": "extension.ecsstractor_port_runwithbem"
+	},
+	{
+		"key": "ctrl+alt+2",
+		"command": "extension.ecsstractor_port_run"
+	},
+	{
+		"key": "alt+p alt+r",
+		"command": "extension.pxToRem"
+	}
+]
